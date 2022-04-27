@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Learn more about Dev and AI
 - ⚡ Fun fact: I love to Read BOOKs
-- :exclamation: Hello world to Better world!
+- :exclamation::exclamation:  Hello world to Better world!
 - :star: Interested in Machine Learning
 
 ### Connect with me:
