@@ -1,6 +1,6 @@
 # Hi there, I'm Ankit Nainwal  [nano-bot] 👋 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23FF3F36&lines=Welcome+to+my+opensource+world;One+person+=+One version;Let's+do+some+code;Make+this+world+better!;Let's+continue+learning!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23FF3F36&lines=Welcome+to+my+opensource+world;One+person+having+One version;Let's+do+some+code;Make+this+world+better!;Let's+continue+learning!;)](https://git.io/typing-svg)
 
 ## I'm a Student !!
 
@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Learn more about Dev and AI
 - ⚡ Fun fact: I love to Read BOOKs
-- :exclamation: Coding for better world
+- :exclamation: Hello world to Better world!
 - :star: Interested in Machine Learning
 
 ### Connect with me:
