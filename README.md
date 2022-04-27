@@ -15,7 +15,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/ankit-nainwal-dit/)
 
-[Instagram]( https://twitter.com/Anku___)
+[Twitter]( https://twitter.com/Anku___)
 
 <br />
 
