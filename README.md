@@ -1,10 +1,13 @@
 # Hi there, I'm Ankit Nainwal  [nano-bot] 👋 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=
-nano-bot01&label=Profile%20views&color=0e75b6&style=flat" 
-alt="nano-bot01" /> </p>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23FF3F36&lines=Welcome+to+my+open+scource+world!;I+do+what+is+mine+to+do!;Let's+learn+together!;Let’s+make+this+world+Better!)](https://git.io/typing-svg)
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nano-bot01&label=Profile%20views&color=0e75b6&style=flat" 
+alt="nano-bot01" /> </p>
+
 
 ## I'm a Student !!
 
