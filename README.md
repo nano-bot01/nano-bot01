@@ -1,9 +1,10 @@
-# Hi there, I'm Ankit Nainwal [nano_bot01] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hi there, I'm Ankit Nainwal [nano-bot01] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23FF3F36&lines=Building+our+future.;Let's+securize+this+world!;Let's+continue+learning!;Let’s+get+after+it+relentlessly!)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nano_bot01&label=Profile%20views&color=0e75b6&style=flat" alt="nano_bot01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nano-bot01&label=Profile%20views&color=0e75b6&style=flat" alt="nano-bot01" /> </p>
+
 
 ## I'm a Student  and a Developer!!
 - 🌱 I’m currently learning Web Development and Programming
@@ -24,7 +25,7 @@
 ## 💬 Connect with me:
 <img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 <p align="center">
-<a href="https://github.com/nano_bot01">
+<a href="https://github.com/nano-bot01">
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
 </a>
 <a href="https://www.linkedin.com/in/ankit-nainwal-dit/">
@@ -52,9 +53,9 @@
   <img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 <br>
 <div align=center>
-  <a href="#" title="nano_bot01">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nano_bot01&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <a href="#" title="nano-bot01">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nano-bot01&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
 
 
-  <img align="left" alt="nano_bot01's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nano_bot01&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="nano-bot01's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nano-bot01&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
