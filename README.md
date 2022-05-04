@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23FF3F36&lines=Building+our+future.;Let's+securize+this+world!;Let's+continue+learning!;Let’s+get+after+it+relentlessly!)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nano-bot01&label=Profile%20views&color=0e75b6&style=flat" alt="nano-bot01" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nano-bot01&label=Profile%20views&color=0e75b6&style=flat" alt="nano-bot01" /> </p>
 
 
 ## I'm a Student  and a Developer!!
@@ -48,14 +48,7 @@
 ## 🎯 Languages and Tools:
 
 <img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank">  
-  
-<a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/g" alt="python" width="40" height="40"/> </a> </p>
-
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank"> > <a href="https://www.java.com" target="_blank"> 
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank">  <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="c++" width="40" height="40"/> </a> </p>    <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/g" alt="git" width="40" height="40"/> </a>    </p> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>   <a href="https://www.figma.com/" target="_blank"> > <a href="https://www.java.com" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
