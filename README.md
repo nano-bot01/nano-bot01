@@ -49,6 +49,11 @@
 
 <img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank">  
+  
+<a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/g" alt="python" width="40" height="40"/> </a> </p>
+
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank"> > <a href="https://www.java.com" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
