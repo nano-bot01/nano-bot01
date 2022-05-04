@@ -29,18 +29,18 @@
 <img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 <p align="center">
 <a href="https://github.com/nano-bot01">  
-    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" style="word-spacing: 10px" alt="Github" height="30" width="30">
 </a>
 <a href="https://www.linkedin.com/in/ankit-nainwal-dit/">  
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" style="word-spacing: 10px" alt="Linkedin" height="30" width="30">
 </a>
 
   <a href="https://twitter.com/Anku___">  
-    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Twitter" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" style="word-spacing: 10px" alt="Twitter" height="30" width="30">
 </a>
   
   <a href="https://www.instagram.com/anku_nainwal/">  
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" style="word-spacing: 10px" alt="Instagram" height="30" width="30">
 </a>
 <br/>
   <p align="center"> 
@@ -52,7 +52,15 @@
 
 <img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank">  <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="c++" width="40" height="40"/> </a>     <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="git" width="40" height="40"/> </a>   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>     <a href="https://www.figma.com/" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>     <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>       <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> 
+  <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="c++" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="git" width="40" height="40"/> </a>  
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>     
+  <a href="https://www.figma.com/" target="_blank">  <img src="https://www.figma.com/" alt="canva" width="40" height="40"/> </a>    
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>    
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>      
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   </p>
   
 <!--  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
