@@ -6,24 +6,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nano-bot01&label=Profile%20views&color=0e75b6&style=flat" alt="nano-bot01" /> </p>
 
 
-## I'm a Student  and a Developer!!
+## I'm a Student and a noob Developer!!
 - 🌱 I’m currently learning Web Development and Programming
-- 👯 I’m looking to collaborate with other developers
+- 👯 I’m looking to some exciting open source projects!
 - 🥅 2022 Goals: Learn more about Dev and AI
-- ⚡ Fun fact: I love to Read BOOKs
+- ⚡ Fun fact: Privach is EVERYTHING
 - :exclamation::exclamation:  Hello world to Better world!
 - :star: Interested in Machine Learning
-
-### Connect with me:
-
-<p align="center">
-  <a href="https://github.com/nano-bot01"> 
-  <img src="https://user-images.githubusercontent.com/627794/87238756-a790f700-c3d4-11ea-9946-ae4c19fbb831.gif" width="140"></a>
-  <a href="https://www.linkedin.com/in/ankit-nainwal-dit/"> 
-  <img src="https://user-images.githubusercontent.com/627794/87238688-cd69cc00-c3d3-11ea-99f4-812dfd665b38.gif" width="180"> </a>
-   <a href="https://twitter.com/Anku___"> 
-  <img src="https://user-images.githubusercontent.com/627794/87238855-1589ee00-c3d6-11ea-8602-36c8c6cad686.gif" width="170"> </a>
-</p>
 
 ## 💬 Connect with me:
 <img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
@@ -43,9 +32,7 @@
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" style="word-spacing: 10px" alt="Instagram" height="30" width="30">
 </a>
 <br/>
-  <p align="center"> 
-  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400" />
-</p>
+ </p>
 <br />
 
 ## 🎯 Languages and Tools:
