@@ -1,7 +1,7 @@
 # Hi there, I'm Ankit Nainwal [nano-bot01]  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px" width="20px">
 <img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23FF3F36&lines=Building+our+future.;Let's+securize+this+world!;Let's+continue+learning!;Let’s+get+after+it+relentlessly!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23FF3F36&lines=Building+our+future.;Let's+change+the+world!;Let's+continue+learning!;Hello+world+to+BETTER+WORLD!;)](https://git.io/typing-svg)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nano-bot01&label=Profile%20views&color=0e75b6&style=flat" alt="nano-bot01" /> </p>
 
